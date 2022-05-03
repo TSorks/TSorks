@@ -1,4 +1,4 @@
-## Hi there 👋, I'm TSorks 🫐
+## Hi there 👋, I'm TSorks 💙
 🔭 I’m currently working on **Client**
 
 🌱 I’m currently learning **python & C#**
