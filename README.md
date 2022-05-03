@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm TSorks 💙
 🔭 I’m currently working on **Client**
 
-🌱 I’m currently learning **python & C#**
+🌱 I’m currently learning **Python & C#**
 
 ## ✔ My Github Analytics
 
