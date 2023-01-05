@@ -10,8 +10,6 @@
 
 </p>
 
----
-
 | Logo | Enabled | Earned by |
 ---|---|---
 | <img src="https://github.com/TSorks/TSorks/blob/main/Resource/Star.png" alt="Star" width=50 height=50> | ✔ | Follow me |
