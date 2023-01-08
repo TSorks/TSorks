@@ -16,3 +16,9 @@
 | <img src="https://github.com/TSorks/TSorks/blob/main/Resource/Sponsor.png" alt="Sponsor" width=50 height=50> | ❌ | None |
 
 ---
+
+## Wait !
+
+But if you remove the follow-up  
+I have to remove my `Star` too  
+This is to make you all equal.🥺🥺
