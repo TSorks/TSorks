@@ -21,4 +21,4 @@
 
 But if you remove the follow-up  
 I have to remove my `Star` too  
-This is to make you all equal.🥺🥺
+This is to make you all equal.🥺🥺🙏
